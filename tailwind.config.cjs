@@ -33,8 +33,8 @@ module.exports = {
     },
 
     backgroundImage: {
-      headerBg: "url(../../src/assets/bg-header-desktop.svg)",
-      headerMobBg: "url(../../src/assets/bg-header-mobile.svg)",
+      headerBg: "url(assets/bg-header-desktop.svg)",
+      headerMobBg: "url(assets/bg-header-mobile.svg)",
     },
   },
   plugins: [],
